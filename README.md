@@ -1,7 +1,7 @@
-## Hi! I'm Lucas, a science and technology student at UNIFESP!
+## Hi! I'm Lucas, a science and technology student at UNIFESP - SJC, aiming to Computer Science!
 <div>
-  <p>One of my favourite hobbies is to suffer for São Paulo Futebol Clube, the best football club in the World (sometimes)!<p>
-  <a href="https://youtu.be/NDUaEu8bN7w?t=8" target="_blank"><img src="https://seeklogo.com/images/S/sao-paulo-futebol-clube-logo-C5FC046703-seeklogo.com.png" target="_blank" width="77" height="100"></a>
+  <p><p>
+  
 </div>
  
 ##
