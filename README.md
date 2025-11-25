@@ -1,6 +1,6 @@
 <h1>Hi!!🙋🏻 I'm Lucas,</h1>
 
-<h2>a Computer Science student at UNIFESP - SJC. <br> <br>
+<h2>a Computer Science student at UNIFESP <br> <br>
   <a><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTdzbXE0b3IzemJsZHQ2cndyaHNiODJiMG41NmplMHEzdTMwejNsMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MBVemoHuyw9Ik/giphy.gif"></a>
 </h2>
 
